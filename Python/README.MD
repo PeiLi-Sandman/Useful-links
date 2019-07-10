@@ -4,6 +4,6 @@
 
 [How to add AUC for keras (Tom's answer)](https://stackoverflow.com/questions/41032551/how-to-compute-receiving-operating-characteristic-roc-and-auc-in-keras) 
 
-[Create an arrat from several pandas columns ](https://stackoverflow.com/questions/43160575/how-to-create-an-array-from-two-columns-in-pandas)
+[Create an array from several pandas columns ](https://stackoverflow.com/questions/43160575/how-to-create-an-array-from-two-columns-in-pandas)
 
 [Simple Kalman filter for data smoothing](https://stackoverflow.com/questions/43377626/how-to-use-kalman-filter-in-python-for-location-data)

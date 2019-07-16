@@ -9,3 +9,5 @@
 [Simple Kalman filter for data smoothing](https://stackoverflow.com/questions/43377626/how-to-use-kalman-filter-in-python-for-location-data)
 
 [Change fontsize of tick in Matplotlib](https://stackoverflow.com/questions/6390393/matplotlib-make-tick-labels-font-size-smaller)
+
+[Good examples for barplot](http://benalexkeen.com/bar-charts-in-matplotlib/)

@@ -13,3 +13,5 @@
 [Good examples for barplot](http://benalexkeen.com/bar-charts-in-matplotlib/)
 
 [Numpy ND array to 1D](https://stackoverflow.com/questions/13730468/from-nd-to-1d-arrays)
+
+[Count unique values in a list](https://stackoverflow.com/questions/12282232/how-do-i-count-unique-values-inside-a-list)

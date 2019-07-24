@@ -17,3 +17,5 @@
 [Count unique values in a list](https://stackoverflow.com/questions/12282232/how-do-i-count-unique-values-inside-a-list)
 
 [Replace a certain element in a list](https://stackoverflow.com/questions/2582138/finding-and-replacing-elements-in-a-list-python/2582163)
+
+[Remove repeat legends in matplotlib](https://stackoverflow.com/questions/13588920/stop-matplotlib-repeating-labels-in-legend)

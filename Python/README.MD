@@ -15,3 +15,5 @@
 [Numpy ND array to 1D](https://stackoverflow.com/questions/13730468/from-nd-to-1d-arrays)
 
 [Count unique values in a list](https://stackoverflow.com/questions/12282232/how-do-i-count-unique-values-inside-a-list)
+
+[Replace a certain element in a list](https://stackoverflow.com/questions/2582138/finding-and-replacing-elements-in-a-list-python/2582163)

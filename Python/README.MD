@@ -19,3 +19,5 @@
 [Replace a certain element in a list](https://stackoverflow.com/questions/2582138/finding-and-replacing-elements-in-a-list-python/2582163)
 
 [Remove repeat legends in matplotlib](https://stackoverflow.com/questions/13588920/stop-matplotlib-repeating-labels-in-legend)
+
+[Count value in a Dataframe](https://stackoverflow.com/questions/45759966/counting-unique-values-in-a-column-in-pandas-dataframe-like-in-qlik)

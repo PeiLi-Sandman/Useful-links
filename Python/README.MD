@@ -21,3 +21,5 @@
 [Remove repeat legends in matplotlib](https://stackoverflow.com/questions/13588920/stop-matplotlib-repeating-labels-in-legend)
 
 [Count value in a Dataframe](https://stackoverflow.com/questions/45759966/counting-unique-values-in-a-column-in-pandas-dataframe-like-in-qlik)
+
+[Seaborn barplot](https://stackoverflow.com/questions/40877135/plotting-two-columns-of-dataframe-in-seaborn)
